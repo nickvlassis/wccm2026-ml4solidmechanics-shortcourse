@@ -204,6 +204,12 @@ nav ul li a.active { background: var(--navy); text-decoration: none; }
   gap: 32px;
   margin: 24px 0;
 }
+.instructor-list {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin: 24px 0;
+}
 .instructor-card {
   display: flex;
   gap: 20px;
